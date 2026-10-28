@@ -2,10 +2,10 @@
 
 ## Vamos criar seu projeto?
 
-Briefing independente simplificado a partir da versão original de 27 perguntas. Agora são **13 perguntas: 10 de seleção e 3 de digitação** (nome, uma frase sobre o negócio e referências/detalhes opcionais).
+Briefing independente simplificado a partir da versão original de 27 perguntas. Agora são **14 perguntas: 11 de seleção e 3 de digitação** (nome, uma frase sobre o negócio e referências/detalhes opcionais).
 
 - Quatro etapas curtas e revisão antes do envio.
-- Perguntas sobre negócio, formato do projeto, ramo, objetivo, público, funções, seções, estilo, cores, materiais e prazo.
+- Perguntas sobre negócio, formato do projeto, ramo, maior dificuldade atual, objetivo, público, funções, seções, estilo, cores, materiais e prazo.
 - Seleção múltipla para funções, seções, cores e materiais.
 - Opções de ajuda para quem ainda não definiu alguma escolha.
 - Opções exclusivas não ficam marcadas junto com respostas contraditórias.
